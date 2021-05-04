@@ -1,0 +1,5 @@
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\publish\NetCore.Docker.exe
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\publish\NetCore.Docker.dll
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\publish\NetCore.Docker.deps.json
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\publish\NetCore.Docker.runtimeconfig.json
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\publish\NetCore.Docker.pdb

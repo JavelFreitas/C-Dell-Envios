@@ -1,0 +1,7 @@
+D:\stuff\Studies\C# Dell\Projetos\ORM_Cliente_Vendedor\bin\Debug\ORM_Cliente_Vendedor.exe.config
+D:\stuff\Studies\C# Dell\Projetos\ORM_Cliente_Vendedor\bin\Debug\ORM_Cliente_Vendedor.exe
+D:\stuff\Studies\C# Dell\Projetos\ORM_Cliente_Vendedor\bin\Debug\ORM_Cliente_Vendedor.pdb
+D:\stuff\Studies\C# Dell\Projetos\ORM_Cliente_Vendedor\obj\Debug\ORM_Cliente_Vendedor.csprojAssemblyReference.cache
+D:\stuff\Studies\C# Dell\Projetos\ORM_Cliente_Vendedor\obj\Debug\ORM_Cliente_Vendedor.csproj.CoreCompileInputs.cache
+D:\stuff\Studies\C# Dell\Projetos\ORM_Cliente_Vendedor\obj\Debug\ORM_Cliente_Vendedor.exe
+D:\stuff\Studies\C# Dell\Projetos\ORM_Cliente_Vendedor\obj\Debug\ORM_Cliente_Vendedor.pdb

@@ -1,0 +1,7 @@
+D:\stuff\Studies\C# Dell\Projetos\ProdutoItem\bin\Debug\ProdutoItem.exe.config
+D:\stuff\Studies\C# Dell\Projetos\ProdutoItem\bin\Debug\ProdutoItem.exe
+D:\stuff\Studies\C# Dell\Projetos\ProdutoItem\bin\Debug\ProdutoItem.pdb
+D:\stuff\Studies\C# Dell\Projetos\ProdutoItem\obj\Debug\ProdutoItem.csprojAssemblyReference.cache
+D:\stuff\Studies\C# Dell\Projetos\ProdutoItem\obj\Debug\ProdutoItem.csproj.CoreCompileInputs.cache
+D:\stuff\Studies\C# Dell\Projetos\ProdutoItem\obj\Debug\ProdutoItem.exe
+D:\stuff\Studies\C# Dell\Projetos\ProdutoItem\obj\Debug\ProdutoItem.pdb

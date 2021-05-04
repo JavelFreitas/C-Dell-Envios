@@ -1,0 +1,7 @@
+D:\stuff\Studies\C# Dell\Projetos\BaldeDeAgua\bin\Debug\BaldeDeAgua.exe.config
+D:\stuff\Studies\C# Dell\Projetos\BaldeDeAgua\bin\Debug\BaldeDeAgua.exe
+D:\stuff\Studies\C# Dell\Projetos\BaldeDeAgua\bin\Debug\BaldeDeAgua.pdb
+D:\stuff\Studies\C# Dell\Projetos\BaldeDeAgua\obj\Debug\BaldeDeAgua.csprojAssemblyReference.cache
+D:\stuff\Studies\C# Dell\Projetos\BaldeDeAgua\obj\Debug\BaldeDeAgua.csproj.CoreCompileInputs.cache
+D:\stuff\Studies\C# Dell\Projetos\BaldeDeAgua\obj\Debug\BaldeDeAgua.exe
+D:\stuff\Studies\C# Dell\Projetos\BaldeDeAgua\obj\Debug\BaldeDeAgua.pdb

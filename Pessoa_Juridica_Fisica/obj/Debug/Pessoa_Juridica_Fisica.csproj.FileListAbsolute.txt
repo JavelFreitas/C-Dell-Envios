@@ -1,0 +1,7 @@
+C:\Users\javel\source\repos\Pessoa_Juridica_Fisica\bin\Debug\Pessoa_Juridica_Fisica.exe.config
+C:\Users\javel\source\repos\Pessoa_Juridica_Fisica\bin\Debug\Pessoa_Juridica_Fisica.exe
+C:\Users\javel\source\repos\Pessoa_Juridica_Fisica\bin\Debug\Pessoa_Juridica_Fisica.pdb
+C:\Users\javel\source\repos\Pessoa_Juridica_Fisica\obj\Debug\Pessoa_Juridica_Fisica.csprojAssemblyReference.cache
+C:\Users\javel\source\repos\Pessoa_Juridica_Fisica\obj\Debug\Pessoa_Juridica_Fisica.csproj.CoreCompileInputs.cache
+C:\Users\javel\source\repos\Pessoa_Juridica_Fisica\obj\Debug\Pessoa_Juridica_Fisica.exe
+C:\Users\javel\source\repos\Pessoa_Juridica_Fisica\obj\Debug\Pessoa_Juridica_Fisica.pdb

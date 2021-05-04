@@ -1,0 +1,7 @@
+C:\Users\javel\source\repos\Aula1_1\bin\Debug\Aula1_1.exe.config
+C:\Users\javel\source\repos\Aula1_1\bin\Debug\Aula1_1.exe
+C:\Users\javel\source\repos\Aula1_1\bin\Debug\Aula1_1.pdb
+C:\Users\javel\source\repos\Aula1_1\obj\Debug\Aula1_1.csprojAssemblyReference.cache
+C:\Users\javel\source\repos\Aula1_1\obj\Debug\Aula1_1.csproj.CoreCompileInputs.cache
+C:\Users\javel\source\repos\Aula1_1\obj\Debug\Aula1_1.exe
+C:\Users\javel\source\repos\Aula1_1\obj\Debug\Aula1_1.pdb

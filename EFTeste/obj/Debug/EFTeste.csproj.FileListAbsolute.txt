@@ -1,0 +1,12 @@
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\bin\Debug\EFTeste.exe.config
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\bin\Debug\EFTeste.exe
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\bin\Debug\EFTeste.pdb
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\bin\Debug\EntityFramework.dll
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\bin\Debug\EntityFramework.SqlServer.dll
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\bin\Debug\EntityFramework.xml
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\bin\Debug\EntityFramework.SqlServer.xml
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\obj\Debug\EFTeste.csprojAssemblyReference.cache
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\obj\Debug\EFTeste.csproj.CoreCompileInputs.cache
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\obj\Debug\EFTeste.csproj.CopyComplete
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\obj\Debug\EFTeste.exe
+D:\stuff\Studies\C# Dell\Projetos\EFTeste\obj\Debug\EFTeste.pdb

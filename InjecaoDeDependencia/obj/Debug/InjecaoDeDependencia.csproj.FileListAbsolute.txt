@@ -1,0 +1,7 @@
+C:\Users\javel\source\repos\InjecaoDeDependencia\bin\Debug\InjecaoDeDependencia.exe.config
+C:\Users\javel\source\repos\InjecaoDeDependencia\bin\Debug\InjecaoDeDependencia.exe
+C:\Users\javel\source\repos\InjecaoDeDependencia\bin\Debug\InjecaoDeDependencia.pdb
+C:\Users\javel\source\repos\InjecaoDeDependencia\obj\Debug\InjecaoDeDependencia.csprojAssemblyReference.cache
+C:\Users\javel\source\repos\InjecaoDeDependencia\obj\Debug\InjecaoDeDependencia.csproj.CoreCompileInputs.cache
+C:\Users\javel\source\repos\InjecaoDeDependencia\obj\Debug\InjecaoDeDependencia.exe
+C:\Users\javel\source\repos\InjecaoDeDependencia\obj\Debug\InjecaoDeDependencia.pdb

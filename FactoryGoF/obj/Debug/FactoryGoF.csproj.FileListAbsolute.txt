@@ -1,0 +1,7 @@
+D:\stuff\Studies\C# Dell\Projetos\FactoryGoF\bin\Debug\FactoryGoF.exe.config
+D:\stuff\Studies\C# Dell\Projetos\FactoryGoF\bin\Debug\FactoryGoF.exe
+D:\stuff\Studies\C# Dell\Projetos\FactoryGoF\bin\Debug\FactoryGoF.pdb
+D:\stuff\Studies\C# Dell\Projetos\FactoryGoF\obj\Debug\FactoryGoF.csprojAssemblyReference.cache
+D:\stuff\Studies\C# Dell\Projetos\FactoryGoF\obj\Debug\FactoryGoF.csproj.CoreCompileInputs.cache
+D:\stuff\Studies\C# Dell\Projetos\FactoryGoF\obj\Debug\FactoryGoF.exe
+D:\stuff\Studies\C# Dell\Projetos\FactoryGoF\obj\Debug\FactoryGoF.pdb

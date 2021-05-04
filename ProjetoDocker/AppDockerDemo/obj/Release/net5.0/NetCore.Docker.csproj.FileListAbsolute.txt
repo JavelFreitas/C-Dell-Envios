@@ -1,0 +1,16 @@
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\NetCore.Docker.exe
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\NetCore.Docker.deps.json
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\NetCore.Docker.runtimeconfig.json
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\NetCore.Docker.runtimeconfig.dev.json
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\NetCore.Docker.dll
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\ref\NetCore.Docker.dll
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\bin\Release\net5.0\NetCore.Docker.pdb
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\obj\Release\net5.0\NetCore.Docker.csprojAssemblyReference.cache
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\obj\Release\net5.0\NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\obj\Release\net5.0\NetCore.Docker.AssemblyInfoInputs.cache
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\obj\Release\net5.0\NetCore.Docker.AssemblyInfo.cs
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\obj\Release\net5.0\NetCore.Docker.csproj.CoreCompileInputs.cache
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\obj\Release\net5.0\NetCore.Docker.dll
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\obj\Release\net5.0\ref\NetCore.Docker.dll
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\obj\Release\net5.0\NetCore.Docker.pdb
+D:\stuff\Studies\C# Dell\Projetos\ProjetoDocker\AppDockerDemo\obj\Release\net5.0\NetCore.Docker.genruntimeconfig.cache

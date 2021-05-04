@@ -1,0 +1,7 @@
+D:\stuff\Studies\C# Dell\Projetos\Professor_Aluno_2_2\bin\Debug\Professor_Aluno_2_2.exe.config
+D:\stuff\Studies\C# Dell\Projetos\Professor_Aluno_2_2\bin\Debug\Professor_Aluno_2_2.exe
+D:\stuff\Studies\C# Dell\Projetos\Professor_Aluno_2_2\bin\Debug\Professor_Aluno_2_2.pdb
+D:\stuff\Studies\C# Dell\Projetos\Professor_Aluno_2_2\obj\Debug\Professor_Aluno_2_2.csprojAssemblyReference.cache
+D:\stuff\Studies\C# Dell\Projetos\Professor_Aluno_2_2\obj\Debug\Professor_Aluno_2_2.csproj.CoreCompileInputs.cache
+D:\stuff\Studies\C# Dell\Projetos\Professor_Aluno_2_2\obj\Debug\Professor_Aluno_2_2.exe
+D:\stuff\Studies\C# Dell\Projetos\Professor_Aluno_2_2\obj\Debug\Professor_Aluno_2_2.pdb
